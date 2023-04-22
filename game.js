@@ -3,7 +3,7 @@ let turn="x";
 let squares=[];
 
 function end(num1,num2,num3){
-    title.innerHTML= `${sequares[num1]}`+" winner";
+    title.innerHTML= " winner";
 document.getElementById("item"+num1).style.background="#000";
 document.getElementById("item"+num2).style.background="#000";
 document.getElementById("item"+num3).style.background="#000";
